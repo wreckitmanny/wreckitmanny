@@ -1,6 +1,25 @@
-## Emmanuel Castellanos ##
+```yaml
+name: Emmanuel Castellanos (Manny)
+location: San Antonio, TX -> Stevensville, MT (As of 7/4/2025)
+current_position: Support Administrator
 
-# Greetings!
+education:
+    {
+        "Bachelor's of Science: Computer Science--University of Texas-San Antonio, 2025",
+        "Associates of Science: Computer Science--Alamo Colleges, 2023"        
+    }
 
-Hi, my name is Emmanuel but preferrably go by Manny.  I just graduated from The University of Texas-San Antonio as of May 18, 2025.  I plan to build personal projects as well as showcase some of my school projects from repositories I've built, and others have shared.  This leaves the door open for changes, improvement, refraction down the line as I contnue to learn and practice all the skills I picked up while obtaining my Computer Science degree.  
+company: Resonant Technology Partners
+
+interested_in_the_following:
+    {
+        "DevOps",
+        "Web Development",
+        "Systems Administration",
+    }
+
+learning_about: ["Docker, Kubernetes, JavaScript (Vanilla, React, Next)"]
+goals_in_2025: ["Use my degree to better myself and my skills"]
+hobbies: ["Disc Golf, Sports, Outdoors, Hiking, Family, Video Games"]
+```
 
