@@ -19,7 +19,7 @@ interested_in_the_following:
     }
 
 learning_about: ["Docker, Kubernetes, JavaScript (Vanilla, React, Next)"]
-goals_in_2025: ["Use my degree to better myself and my skills"]
+_goals: ["Use my degree to better myself and my skills"]
 hobbies: ["Disc Golf, Sports, Outdoors, Hiking, Family, Video Games"]
 ```
 
